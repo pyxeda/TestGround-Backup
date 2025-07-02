@@ -1,0 +1,21 @@
+{
+  "name": "testground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyxeda/TestGround.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyxeda/TestGround/issues"
+  },
+  "homepage": "https://github.com/pyxeda/TestGround#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.1"
+  }
+}

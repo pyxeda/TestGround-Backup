@@ -1,0 +1,17 @@
+{
+    "tests": [
+      {
+        "name": "Emoji",
+        "data_folder_name": "Datasets/Comprehensive/UnlinkedAccounts/emoji",
+        "categories": ["Happy", "Sad"],
+        "filePath": "Datasets/Comprehensive/UnlinkedAccounts/emoji/Happy/image_12.jpg",
+        "link": "https://cdn.pixabay.com/photo/2020/12/27/20/24/smile-5865208_1280.png",
+        "semiAutoAlgorithm":{
+          "model": "ImageClassification",
+          "parameters": { 
+          }
+        }
+      }
+    ]
+  }
+  

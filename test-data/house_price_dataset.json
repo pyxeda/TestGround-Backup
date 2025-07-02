@@ -1,0 +1,108 @@
+{
+    "tests": [
+      {
+        "name": "houseprices_KNN_k_1",
+        "label": "median_house_value",
+        "file": "Datasets/Comprehensive/house/houseprices_project_1.csv",
+        "semiAutoAlgorithm":{
+          "model": "KNeighborsRegressor",
+          "parameters": {
+            "k": "1"
+          }
+        }
+      },
+      {
+        "name": "houseprices_KNN_k_8",
+        "label": "median_house_value",
+        "file": "Datasets/Comprehensive/house/houseprices_project_1.csv",
+        "semiAutoAlgorithm":{
+          "model": "KNeighborsRegressor",
+          "parameters": {
+            "k": "8"
+          }
+        }
+      },
+      {
+        "name": "houseprices_KNN_k_16",
+        "label": "median_house_value",
+        "file": "Datasets/Comprehensive/house/houseprices_project_1.csv",
+        "semiAutoAlgorithm":{
+          "model": "KNeighborsRegressor",
+          "parameters": {
+            "k": "16"
+          }
+        }
+      },
+      {
+        "name": "houseprices_KNN_k_24",
+        "label": "median_house_value",
+        "file": "Datasets/Comprehensive/house/houseprices_project_1.csv",
+        "semiAutoAlgorithm":{
+          "model": "KNeighborsRegressor",
+          "parameters": {
+            "k": "24"
+          }
+        }
+      },
+      {
+        "name": "houseprices_KNN_k_32",
+        "label": "median_house_value",
+        "file": "Datasets/Comprehensive/house/houseprices_project_1.csv",
+        "semiAutoAlgorithm":{
+          "model": "KNeighborsRegressor",
+          "parameters": {
+            "k": "32"
+          }
+        }
+      },
+      {
+        "name": "houseprices_RandomForest_trees15_depth10",
+        "label": "median_house_value",
+        "file": "Datasets/Comprehensive/house/houseprices_project_1.csv",
+        "semiAutoAlgorithm":{
+          "model": "RandomForestRegressor",
+          "parameters": {
+            "num_trees": "15",
+            "max_depth": "10"
+          }
+        }
+      },
+      {
+        "name": "houseprices_RandomForest_trees30_depth10",
+        "label": "median_house_value",
+        "file": "Datasets/Comprehensive/house/houseprices_project_1.csv",
+        "semiAutoAlgorithm":{
+          "model": "RandomForestRegressor",
+          "parameters": {
+            "num_trees": "30",
+            "max_depth": "10"
+          }
+        }
+      },
+      {
+        "name": "houseprices_RandomForest_trees45_depth10",
+        "label": "median_house_value",
+        "file": "Datasets/Comprehensive/house/houseprices_project_1.csv",
+        "semiAutoAlgorithm":{
+          "model": "RandomForestRegressor",
+          "parameters": {
+            "num_trees": "45",
+            "max_depth": "10"
+          }
+        }
+      },
+      {
+        "name": "houseprices_RandomForest_trees45_depth20",
+        "label": "median_house_value",
+        "file": "Datasets/Comprehensive/house/houseprices_project_1.csv",
+        "semiAutoAlgorithm":{
+          "model": "RandomForestRegressor",
+          "parameters": {
+            "num_trees": "45",
+            "max_depth": "20"
+          }
+        }
+      }
+    ]
+  }
+  

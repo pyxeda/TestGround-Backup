@@ -1,0 +1,25 @@
+Temp (celsius),Sun position,Activity ,Time of Day
+6,not visible,none,12:00 AM
+6,not visible,none,1:00 AM
+5,not visible,none,2:00 AM
+2,not visible,none,3:00 AM
+3,not visible,low,4:00 AM
+7,not visible,low,5:00 AM
+8,southeast,low,6:00 AM
+10,east,med,7:00 AM
+12,east,high,8:00 AM
+13,northeast,high,9:00 AM
+17,northeast,med,10:00 AM
+18,north,med,11:00 AM
+21,north,med,12:00 PM
+30,north,med,1:00 PM
+31,north,med,2:00 PM
+35,north,high,3:00 PM
+33,north,high,4:00 PM
+28,northwest,high,5:00 PM
+20,northwest,high,6:00 PM
+14,west,med,7:00 PM
+11,not visible,med,8:00 PM
+9,not visible,low,9:00 PM
+6,not visible,none,10:00 PM
+6,not visible,none,11:00 PM
