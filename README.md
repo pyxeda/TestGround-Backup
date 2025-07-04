@@ -1,36 +1,22 @@
 # TestGround
-
-#add: basic legacy flow test
-
-#update: increase maximum test timeout
-
-#add: setup playwright
-
-#add: use authenticated browser state for authentication
-
-#wip: manual test run
-
-#add: test against different environments
-
-#update: disable testing against firefox
-
-#add all datasets for tests
-
-#add test for image based ai services
-
-#fixes_for_model_deployment_failure
-
-#add_re_run_fe
-
-#change locators naming convention
-
-#feature/predict_using_range_query
-
-#feature/retrain_flow
-
-#implementatoin for semi-automatic user input values
-
-#increase test execution time
-
-#add: tsconfig
+0911ffbaf0a16fe5d910b862a3459c9ba8dd5d67
+9c30d68501ee37b4ef84286748309b9597579131
+cef399a7b0031c500e284e3487d9e196f696cae5
+08c40f32691cba80c77eeb73c398850340908d44
+d89e72d587e70082aced0abce7f5eb58becedc2b
+24be3fe0a86ea048f59264bee69831dde8ed1c22
+942dfbc0a500cdaf11f1ef5574355b83b2becdbc
+35add6bc7f8a4934596787b66fca4fda9a3d6200
+891c0574c2f55077dccecf6211f0196c837b3f49
+9bf507a1e35fa6403f71c1282f5d1e37b047cd92
+70d30195a07e3790ec36d6d031e096e0777cbae0
+2cd092808859cc7d38069a56847a249324deca09
+46bfe4dbec61da273753fd4b86858b3060343a46
+61aacb1b043c5a2d61537019fcf1ab0b9d233343
+79cfd1f12654ab1921d9e8efe02dcbf413c1189e
+8d717593016973d7ff61edc27b8cf73b819d2e06
+094599af3d2469ea82720f2c88e4f4471967a6df
+a6e4b6ee9e5cc1f49ca437cb035424f6016de978
+e90ea3d30cd6f6f62319674a399def4a21c91aa1
+64dbbc8ee9f3c911bcd3ab32d04ae6769696fb27
 
